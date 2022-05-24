@@ -75,7 +75,7 @@
                                 <TextBlock Text="{Binding Email}"/>
                             </StackPanel>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Text="TitleID: "/>
+                                <TextBlock Text="titleID: "/>
                                 <TextBlock Text="{Binding TitleID}"/>
                             </StackPanel>
                             
